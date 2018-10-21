@@ -8,7 +8,7 @@ baseurl: '/selvakumardreams' #change it according to your repository name
 theme_skin: blue # blue turquoise green berry orange ceramic
 
 # Tracker
-analytics: 
+analytics: 000000
 
 # Sass/SCSS
 sass:
