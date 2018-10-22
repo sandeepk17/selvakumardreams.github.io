@@ -31,28 +31,34 @@ sidebar:
         level: Professional
 
       - idiom: Kannada
-        level: Professional
+        level: Beginner
         
     interests:
-      - item: Climbing
+      - item: Swimming
         link:
 
-      - item: Snowboarding
+      - item: Startup Ideas
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+        •	Positive, proactive and searching for holistic solutions
+        •	Over 10 years of experience in delivering quality software products on Mobile & Web technologies. 
+        •	 Extensive experience in Java, Android, J2ME, Angular, ReactJS, Python, Ruby, Shell Scripts, Reactivex.
+        •	New Mobile & Web Applications architecture or re-architecture.  
+        •	Known for writing efficient, maintainable and reusable code that preserves privacy and security.
+        •	Proficient in objected-oriented design, data structures, problem-solving, complexity analysis and debugging.
+        •	Great understanding of web architecture and services.
+        •	Strong knowledge of XML, client-server communications etc.
+        •	 Framework & Toolkit selection or development matched to business & technical requirements.
+        •	Technical Leadership, mentorship, training.
+        •	Extended experience in Agile Software Development.
+        •	Strong in technical, analytical, presentation, communication, team skills.
+        •	Taken up more challenging tasks under critical situations and excel in projects.
 
 education:
     - degree: MSc in Computer Science
